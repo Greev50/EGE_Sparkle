@@ -26,15 +26,15 @@
 
 <!-- https://obrazovaka.ru/books/kuprin/chudesnyy-doktor -->
 
-https://obrazovaka.ru/books/andreev/kusaka
+<!-- https://obrazovaka.ru/books/andreev/kusaka -->
+
+https://obrazovaka.ru/books/platonov/yushka
 
 https://fb.ru/article/353197/i-a-bunin-krasavitsa-kratkoe-soderjanie-rasskaza
 
 https://obrazovaka.ru/books/yakovlev/on-ubil-moyu-sobaku
 
 https://obrazovaka.ru/books/bredberi/ulybka
-
-https://obrazovaka.ru/books/platonov/yushka
 
 https://obrazovaka.ru/books/kaverin/dva-kapitana
 

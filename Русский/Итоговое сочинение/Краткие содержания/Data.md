@@ -1,6 +1,4 @@
-https://litrekon.ru/kratkie-soderzhaniya/peschanaya-uchitelnitsa-i-otzyv-dlya-chitatelskogo-dnevnika-a-p-platonov/
-
-https://www.ipoet24.ru/android/?cat=polez&catalog=uroki_po_literat&id=42737&ysclid=lp3pwqjb1a891499615
+<!-- https://litrekon.ru/kratkie-soderzhaniya/peschanaya-uchitelnitsa-i-otzyv-dlya-chitatelskogo-dnevnika-a-p-platonov/ -->
 
 https://obrazovaka.ru/books/kuprin/chudesnyy-doktor
 

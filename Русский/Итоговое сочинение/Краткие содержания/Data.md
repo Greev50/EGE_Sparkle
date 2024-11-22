@@ -24,7 +24,7 @@
 
 <!-- https://litrekon.ru/kratkie-soderzhaniya/peschanaya-uchitelnitsa-i-otzyv-dlya-chitatelskogo-dnevnika-a-p-platonov/ -->
 
-https://obrazovaka.ru/books/kuprin/chudesnyy-doktor
+<!-- https://obrazovaka.ru/books/kuprin/chudesnyy-doktor -->
 
 https://obrazovaka.ru/books/andreev/kusaka
 

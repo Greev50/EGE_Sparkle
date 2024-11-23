@@ -28,7 +28,9 @@
 
 <!-- https://obrazovaka.ru/books/andreev/kusaka -->
 
-https://obrazovaka.ru/books/platonov/yushka
+<!-- https://obrazovaka.ru/books/platonov/yushka -->
+
+https://obrazovaka.ru/books/gogol/shinel
 
 https://fb.ru/article/353197/i-a-bunin-krasavitsa-kratkoe-soderjanie-rasskaza
 
@@ -43,8 +45,6 @@ https://obrazovaka.ru/books/pushkin/evgeniy-onegin
 https://obrazovaka.ru/books/lermontov/mcyri
 
 https://obrazovaka.ru/books/lermontov/geroy-nashego-vremeni
-
-https://obrazovaka.ru/books/gogol/shinel
 
 https://obrazovaka.ru/books/turgenev/otcy-i-deti
 

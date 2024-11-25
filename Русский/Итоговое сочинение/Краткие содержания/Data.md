@@ -30,7 +30,9 @@
 
 <!-- https://obrazovaka.ru/books/platonov/yushka -->
 
-https://obrazovaka.ru/books/gogol/shinel
+<!-- https://obrazovaka.ru/books/gogol/shinel -->
+
+https://obrazovaka.ru/books/pushkin/evgeniy-onegin
 
 https://fb.ru/article/353197/i-a-bunin-krasavitsa-kratkoe-soderjanie-rasskaza
 
@@ -39,8 +41,6 @@ https://obrazovaka.ru/books/yakovlev/on-ubil-moyu-sobaku
 https://obrazovaka.ru/books/bredberi/ulybka
 
 https://obrazovaka.ru/books/kaverin/dva-kapitana
-
-https://obrazovaka.ru/books/pushkin/evgeniy-onegin
 
 https://obrazovaka.ru/books/lermontov/mcyri
 

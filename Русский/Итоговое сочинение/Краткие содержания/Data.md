@@ -34,6 +34,8 @@
 
 https://obrazovaka.ru/books/pushkin/evgeniy-onegin
 
+https://obrazovaka.ru/books/ostrovskiy/groza
+
 https://fb.ru/article/353197/i-a-bunin-krasavitsa-kratkoe-soderjanie-rasskaza
 
 https://obrazovaka.ru/books/yakovlev/on-ubil-moyu-sobaku
@@ -51,8 +53,6 @@ https://obrazovaka.ru/books/turgenev/otcy-i-deti
 https://obrazovaka.ru/books/goncharov/oblomov
 
 https://obrazovaka.ru/books/gorkiy/staruha-izergil
-
-https://obrazovaka.ru/books/ostrovskiy/groza
 
 https://obrazovaka.ru/books/sholohov/sudba-cheloveka
 

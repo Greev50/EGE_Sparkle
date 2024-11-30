@@ -36,13 +36,13 @@
 
 <!-- https://obrazovaka.ru/books/ostrovskiy/groza -->
 
-https://obrazovaka.ru/books/bunin/gospodin-iz-san-francisko
+<!-- https://obrazovaka.ru/books/bunin/gospodin-iz-san-francisko -->
 
-https://obrazovaka.ru/books/bulgakov/sobache-serdce
-
-https://obrazovaka.ru/books/kuprin/granatovyy-braslet
+<!-- https://obrazovaka.ru/books/bulgakov/sobache-serdce -->
 
 https://obrazovaka.ru/books/turgenev/otcy-i-deti
+
+https://obrazovaka.ru/books/kuprin/granatovyy-braslet
 
 https://obrazovaka.ru/books/kaverin/dva-kapitana
 

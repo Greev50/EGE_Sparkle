@@ -40,7 +40,9 @@
 
 <!-- https://obrazovaka.ru/books/bulgakov/sobache-serdce -->
 
-https://obrazovaka.ru/books/turgenev/otcy-i-deti
+<!-- https://obrazovaka.ru/books/turgenev/otcy-i-deti -->
+
+https://obrazovaka.ru/books/gorkiy/staruha-izergil
 
 https://obrazovaka.ru/books/kuprin/granatovyy-braslet
 
@@ -53,8 +55,6 @@ https://obrazovaka.ru/books/lermontov/geroy-nashego-vremeni
 https://obrazovaka.ru/books/tolstoy/voyna-i-mir?ysclid=m41p8wz2p2206905873
 
 https://obrazovaka.ru/books/goncharov/oblomov
-
-https://obrazovaka.ru/books/gorkiy/staruha-izergil
 
 https://obrazovaka.ru/books/rasputin/uroki-frantsuzskogo
 

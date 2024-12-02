@@ -44,7 +44,7 @@
 
 <!-- https://obrazovaka.ru/books/gorkiy/staruha-izergil -->
 
-https://obrazovaka.ru/chitatelskiy-dnevnik/pervaya-lyubov.html?ysclid=m45fvq3h61137036928
+<!-- https://obrazovaka.ru/chitatelskiy-dnevnik/pervaya-lyubov.html?ysclid=m45fvq3h61137036928 -->
 
 https://obrazovaka.ru/books/kuprin/granatovyy-braslet
 

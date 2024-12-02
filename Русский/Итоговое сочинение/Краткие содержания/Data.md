@@ -56,7 +56,7 @@ https://obrazovaka.ru/books/lermontov/geroy-nashego-vremeni
 
 https://obrazovaka.ru/books/tolstoy/voyna-i-mir?ysclid=m41p8wz2p2206905873
 
-https://obrazovaka.ru/books/goncharov/oblomov
+<!-- https://obrazovaka.ru/books/goncharov/oblomov -->
 
 https://obrazovaka.ru/books/rasputin/uroki-frantsuzskogo
 

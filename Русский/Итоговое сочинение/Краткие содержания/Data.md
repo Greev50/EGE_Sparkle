@@ -46,6 +46,10 @@
 
 <!-- https://obrazovaka.ru/chitatelskiy-dnevnik/pervaya-lyubov.html?ysclid=m45fvq3h61137036928 -->
 
+https://obrazovaka.ru/books/gogol/taras-bulba?ysclid=m47ule5nfi111035660
+
+https://obrazovaka.ru/books/tolstoy/voyna-i-mir?ysclid=m41p8wz2p2206905873
+
 https://obrazovaka.ru/books/kuprin/granatovyy-braslet
 
 https://obrazovaka.ru/books/kaverin/dva-kapitana
@@ -53,8 +57,6 @@ https://obrazovaka.ru/books/kaverin/dva-kapitana
 https://obrazovaka.ru/books/lermontov/mcyri
 
 https://obrazovaka.ru/books/lermontov/geroy-nashego-vremeni
-
-https://obrazovaka.ru/books/tolstoy/voyna-i-mir?ysclid=m41p8wz2p2206905873
 
 <!-- https://obrazovaka.ru/books/goncharov/oblomov -->
 

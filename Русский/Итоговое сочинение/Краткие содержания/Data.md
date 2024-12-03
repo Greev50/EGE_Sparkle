@@ -46,6 +46,8 @@
 
 <!-- https://obrazovaka.ru/chitatelskiy-dnevnik/pervaya-lyubov.html?ysclid=m45fvq3h61137036928 -->
 
+https://obrazovaka.ru/books/pushkin/kapitanskaya_dochka?ysclid=m48nawum7e693366796
+
 https://obrazovaka.ru/books/gogol/taras-bulba?ysclid=m47ule5nfi111035660
 
 https://obrazovaka.ru/books/tolstoy/voyna-i-mir?ysclid=m41p8wz2p2206905873
